@@ -1,0 +1,101 @@
+html{                 
+    background-image: url(https://images.wallpapersden.com/image/download/purple-glowing-wave-4k-windows-11_bmZmZWuUmZqaraWkpJRobWllrWdma2U.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Trebuchet MS';
+}   
+h1{
+text-align: center;;
+font-size: 250% ;
+padding: 40px;
+margin-left: 140px;
+margin-right: 140px;
+color: white;
+
+}
+
+#titulo_header { 
+    font-size: 50px; 
+    font-weight: bold; 
+    color: #ffffff; 
+    text-align: center; 
+    margin: 10px 0; 
+
+}
+
+.header {
+    height: 500px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3px;
+    background-size: cover; 
+    background-position: center; 
+}
+#contenido{
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+    color: white;
+    text-align: left;
+}
+h3{
+    border: black 1px;
+    color: white;
+    background-color: rgb(235, 45, 77);
+    border-radius: 8px;
+    padding: 5px;
+    clear: both;
+    margin-left: 30px;
+    margin-right: 1000px;
+    text-align: center;
+
+}
+
+
+.section {
+    margin: 15px; 
+    padding: 5px; 
+    color: antiquewhite;
+}
+
+p{
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: justify;
+    text-indent: 40px;
+    font-size: 16px;
+}
+
+
+#extras{
+    text-align: center;
+    text-indent: 40px;
+}
+
+button{
+   
+    background-color: #6e29f0;
+    border: none;
+    color: white;
+    padding: 20px 30px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 5px;
+    align-items: center;
+    font-family:'Trebuchet MS';
+    cursor: pointer;
+    border-radius: 5px;
+    justify-content: center;
+    justify-content: baseline;
+}
+
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 5px;
+}
